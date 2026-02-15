@@ -1,0 +1,40 @@
+Sept. 21
+    - Set up docker container for front and backend.
+
+Sept. 28
+    - Set up docker container for frontend, backend, and database and git repository.
+
+Nov. 30
+    - Fix backend container.
+    - Set up git repository.
+
+Dec 13:
+    - Set up git repository
+    - Create navigation bar
+
+Dec 27:
+    - Set up git repository
+    - Create navigation bar
+
+Jan 3:
+    - Set up git repository
+    - Create navigation bar
+    - Finish with routing
+
+Jan 10:
+    - Finish link section on course
+    - Work on hello section
+    - Finish making underline work
+
+Jan 31:
+    - Add project to a repository
+    - Finish link section on course
+    - Style error page
+    - Add media queries to header and nav link
+
+
+Feb 14:
+    - Add project to a repository
+    - Finish link section on course
+    - Style error page
+    - Add media queries to header and nav link

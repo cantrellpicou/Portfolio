@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-base: #efebe3;
+    --color-section: #e7e0d8;
+    --color-accent: #e6cfc2;
+    --color-charcoal: #9d6031;
+    --color-dark-tan: #e1b69e;
+  }
+
+  body {
+    background-color: var(--color-base);
+    min-height: 100vh;
+  }
+}
