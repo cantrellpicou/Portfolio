@@ -21,7 +21,7 @@ function Hello() {
         <div className="absolute -top-6 -right-6 h-72 max-[881px]:w-54 max-[691px]:w-50 w-60 bg-[var(--color-dark-tan)] rounded-3xl opacity-30"></div>
         <div className="relative bg-[var(--color-section)] p-4 rounded-2xl shadow-lg">
           <img
-            src="IMG_0622.PNG"
+            src="IMG_0622.png"
             alt="A photo of Cantrell."
             className="h-80  rounded-xl w-full"
           />
