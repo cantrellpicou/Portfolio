@@ -32,9 +32,177 @@ Jan 31:
     - Style error page
     - Add media queries to header and nav link
 
-
 Feb 14:
     - Add project to a repository
     - Finish link section on course
     - Style error page
     - Add media queries to header and nav link
+
+Feb 21:
+    - Finish link section on course
+    - Style error page
+    - Finish media queries to header and nav link
+
+March 1:
+- Finish link section on course
+- Style error page
+- Finish media queries to header and nav link
+
+March 7:
+- Finish link section on course
+- Style error page
+- Finish media queries to header and nav link
+
+March 14:
+- Finish link section on course
+- Style error pag
+- Finish media queries to header and nav link
+
+March 28:
+- Finish link section on course
+- Style error pag
+- Finish media queries to header and nav link; Start mobile queries
+
+April 4:
+- Finish link section on course
+- Style error pag
+- Finish media queries to header and nav link; Start mobile queries
+
+April 11:
+- Finish link section on course
+- Style error pag
+- Finish media queries to header and nav link; Start mobile queries
+
+April 18:
+- Finish link section on course
+- Style error pag
+- Finish media queries
+
+April 25:
+- Finish link section on course
+- Style error pag
+- Finish media queries
+
+May 9:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+- Create pop out for navigation.
+
+May 16:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+- Create pop out for navigation.
+
+June 6:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+- Create pop out for navigation.
+
+June 13:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+- Create pop out for navigation.
+
+June 13:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+- Create pop out for navigation.
+
+June 27:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+- Create pop out for navigation.
+
+July 4:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+- Create pop out for navigation.
+
+July 25:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+
+August 1:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+
+August 8:
+- Finish link section on course.
+- Style error page.
+- Finish media queries.
+
+August 15:
+- Finish link section on course.
+
+August 22:
+- Finish link section on course.
+- Fix links
+- Fix git graph
+
+September 5:
+- Continue with home page.
+- Continue watching video on udemy.
+
+September 19:
+- Continue with home page.
+- Continue watching video on udemy.
+
+September 28:
+- Continue with home page.
+- Continue watching video on udemy.
+- Learn about hosting a website.
+
+Oct 3:
+- Continue with home page.
+- Continue watching video on udemy.
+- Learn about hosting a website.
+- Learn about CI/CD, Jenkins
+
+Oct 10:
+- Continue with home page.
+- Continue watching video on udemy.
+- Learn about hosting a website using aws.
+- Learn about CI/CD, Jenkins.
+
+Oct 17:
+- Continue with home page.
+- Continue watching videos on udemy.
+- Learn about hosting a website using aws.
+- Learn about CI/CD, Jenkins.
+- Crop other picture.
+
+Oct 24:
+- Continue with home page.
+- Continue watching videos on udemy.
+- Learn about hosting a website using aws.
+- Learn about CI/CD, Jenkins.
+- Crop other picture.
+- Make picture of me bigger on small screen.
+
+Oct 31:
+- Continue with home page.
+- Continue watching videos on udemy.
+- Learn about hosting a website using aws.
+- Learn about CI/CD, Jenkins.
+
+Nov 8:
+- Continue with home page.
+- Continue watching videos on udemy.
+- Learn about hosting a website using aws.
+- Learn about CI/CD, Jenkins.
+- Switch to new github account
+
+Nov 14:
+- Continue with home page.
+- Continue watching videos on udemy.
+- Learn about hosting a website using aws.
+- Learn about CI/CD, Jenkins.

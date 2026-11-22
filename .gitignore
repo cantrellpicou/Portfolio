@@ -24,3 +24,12 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+<<<<<<< Updated upstream
+to-do.txt
+
+
+chat.txt
+=======
+to-do.txt
+>>>>>>> Stashed changes
